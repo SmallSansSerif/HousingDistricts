@@ -14,7 +14,7 @@ using Terraria.Utilities;
 
 namespace HousingDistricts
 {
-    [ApiVersion(2, 0)]
+    [ApiVersion(2, 1)]
     public class HousingDistricts : TerrariaPlugin
     {
 		public static HConfigFile HConfig { get { return HConfigFile.Config; } }
